@@ -1,4 +1,4 @@
-import algoliasearch from 'algoliasearch/lite';
+import algoliasearch from 'algoliasearch.js';
 import instantsearch from 'instantsearch.js';
 import {
   configure,
